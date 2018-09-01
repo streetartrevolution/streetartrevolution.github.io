@@ -39,7 +39,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "siteUrl": "",
     "google-analytics": "",
@@ -47,7 +47,7 @@
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on"
   },
   "pages": {
