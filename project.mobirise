@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Street Art Revolution: Back to Black ",
+    "name": "Street Art Revolution: Back to Black Installation",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -41,14 +41,15 @@
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "siteUrl": "",
-    "google-analytics": "",
+    "siteUrl": "http://streetartrevolution.github.io",
+    "google-analytics": "<a title=\"Google Analytics Alternative\" href=\"http://clicky.com/101137967\"><img alt=\"Google Analytics Alternative\" src=\"//static.getclicky.com/media/links/badge.gif\" border=\"0\" /></a>\r\n<script type=\"text/javascript\">\r\nvar clicky_site_ids = clicky_site_ids || [];\r\nclicky_site_ids.push(101137967);\r\n(function() {\r\n  var s = document.createElement('script');\r\n  s.type = 'text/javascript';\r\n  s.async = true;\r\n  s.src = '//static.getclicky.com/js';\r\n  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );\r\n})();\r\n</script>\r\n<noscript><p><img alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/101137967ns.gif\" /></p></noscript>",
     "uniqCompNum": 59,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
