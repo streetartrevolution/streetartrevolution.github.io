@@ -42,7 +42,7 @@
     "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "siteUrl": "http://streetartrevolution.github.io",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-33947111-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-33947111-2');\r\n</script>\r\n\r\n\r\n<script src=\"//static.getclicky.com/js\" type=\"text/javascript\"></script>\r\n<script type=\"text/javascript\">try{ clicky.init(101137967); }catch(e){}</script>\r\n<noscript><p><img alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/101137967ns.gif\" /></p></noscript>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-33947111-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n gtag('config', 'UA-33947111-2');\r\n</script>\r\n\r\n\r\n",
     "uniqCompNum": 59,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
